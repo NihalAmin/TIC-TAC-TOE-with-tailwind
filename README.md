@@ -1,10 +1,10 @@
-##Tic-Tac-Toe Game  
+## Tic-Tac-Toe Game  
 
-##Overview  
+## Overview  
 
 This is a simple Tic-Tac-Toe game built using React. The game allows two players to take turns marking spaces on a 3x3 grid. The player who first aligns three of their marks in a row, column, or diagonal wins the game. If all spaces are filled without a winner, the game results in a draw.  
 
-##Features  
+## Features  
 
 Interactive 3x3 game board  
 
@@ -18,7 +18,7 @@ Reset game functionality
 
 Styled with Tailwind CSS  
 
-##Technologies Used  
+## Technologies Used  
 
 React  
 
